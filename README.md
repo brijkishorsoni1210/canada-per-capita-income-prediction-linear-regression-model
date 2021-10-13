@@ -1,0 +1,1 @@
+# canada-per-capita-income-prediction-linear-regression-model
